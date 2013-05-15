@@ -1,0 +1,31 @@
+{
+  "name": "mocha-browser-and-headless",
+  "version": "0.0.1",
+  "description": "boilerplate mocha running both in browser and headless",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "=1.8.3"
+  },
+  "devDependencies": {
+    "mocha": "=1.9.0",
+    "sinon": "=1.7.2",
+    "mocha-phantomjs": "=2.0.2",
+    "chai": "=1.6.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/justinjmoses/mocha-browser-and-headless.git"
+  },
+  "keywords": [
+    "mocha",
+    "browser",
+    "headless"
+  ],
+  "author": "justin j. moses",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "16f3d577e3d3558fc7adcfc5a0460ec13c067502"
+}
